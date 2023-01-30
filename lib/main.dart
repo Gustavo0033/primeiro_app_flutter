@@ -12,11 +12,3 @@ void main() {
     ),
   );
 }
-
-class myApp extends StatelessWidget{
-  const myApp({super.key});
-
-  Widget build(BuildContext context){
-
-  }
-}
